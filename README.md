@@ -52,4 +52,4 @@ unavailable → manual pin drop).
 
 ## Author
 
-*PES University CSE — Lab 1 Submission*
+*PES University — SE Lab 1 Submission - PES1UG24AM376*
