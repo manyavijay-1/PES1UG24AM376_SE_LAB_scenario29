@@ -9,3 +9,5 @@
 | [Lab3](./Lab3) | Component Modelling |
 | [Lab4](./Lab4) | Vibe Coding |
 | [Lab5](./Lab5) | Static Code Analysis |
+| [Lab 6](./Lab%206) | Code Coverage & Branch Coverage Testing |
+| [Lab 7](./Lab%207) | Fuzz Testing using Hypothesis |
